@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Anushka",
+    "Age": 20,
+    "city": "Delhi",
+    "class": "14th",
+    "lastname": "Tripathi"
+  },
+  {
+    "status": "unmarried",
+    "Age": 23
+  }
+]
