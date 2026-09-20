@@ -1,0 +1,1 @@
+// To write student routes, we need to import the express module and create a router object. We can then define the routes for the student resource using the router object. Finally, we export the router object so that it can be used in other parts of the application.

@@ -1,0 +1,3 @@
+// MVC Architecture - Model - Represents the data and business logic of the application. It is responsible for managing the data, including retrieving it from a database, validating it, and performing any necessary calculations or transformations.
+//                  - View - Represents the user interface of the application. It is responsible for displaying the data to the user and handling user input.
+//                  - Controller - Acts as an intermediary between the Model and the View. It receives user input, updates the Model accordingly, and selects the appropriate View to display.
